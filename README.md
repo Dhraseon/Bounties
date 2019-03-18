@@ -1,2 +1,2 @@
 # Bounties
-A Rebo for bounty data
+A Repo for bounty data
