@@ -1,0 +1,38 @@
+# Nmap 7.60 scan initiated Sun Mar 17 17:49:47 2019 as: nmap -iL /root/Desktop/d_tech_domains.txt -oG /root/Desktop/d_tech_namped.txt
+Host: 92.123.55.191 (a92-123-55-191.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 92.123.55.191 (a92-123-55-191.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 192.124.249.120 (cloudproxy10120.sucuri.net)	Status: Up
+Host: 192.124.249.120 (cloudproxy10120.sucuri.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 198.90.23.88 ()	Status: Up
+Host: 198.90.23.88 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 204.2.166.79 ()	Status: Up
+Host: 204.2.166.79 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 74.120.217.104 ()	Status: Up
+Host: 74.120.217.104 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 198.87.176.66 ()	Status: Up
+Host: 198.87.176.66 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 204.1.136.179 ()	Status: Up
+Host: 204.1.136.179 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 162.218.139.40 ()	Status: Up
+Host: 162.218.139.40 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.84.134.174 (ec2-54-84-134-174.compute-1.amazonaws.com)	Status: Up
+Host: 54.84.134.174 (ec2-54-84-134-174.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 128.221.237.171 ()	Status: Up
+Host: 128.221.237.171 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 128.221.237.119 ()	Status: Up
+Host: 128.221.237.119 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 92.123.55.191 (a92-123-55-191.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 92.123.55.191 (a92-123-55-191.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 74.120.217.104 ()	Status: Up
+Host: 74.120.217.104 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 198.90.23.88 ()	Status: Up
+Host: 198.90.23.88 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 162.218.139.40 ()	Status: Up
+Host: 162.218.139.40 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 92.123.55.191 (a92-123-55-191.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 92.123.55.191 (a92-123-55-191.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 74.120.217.104 ()	Status: Up
+Host: 74.120.217.104 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 198.90.23.88 ()	Status: Up
+Host: 198.90.23.88 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+# Nmap done at Sun Mar 17 17:50:35 2019 -- 20 IP addresses (18 hosts up) scanned in 48.78 seconds
