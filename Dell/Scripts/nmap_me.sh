@@ -4,14 +4,17 @@ FILES="../Domains/Sublist3r/*"
 for f in $FILES
 do
 	name=${f##*/}
-	echo "Splitting ${name}"
+	echo "[*] Splitting ${name}"
 	split -l 50 $f ../Domains/Split/
 done
 # Nmap each file created by the split
+mkdir "../Domains/Done/"
 FILES="../Domains/Split/*"
 for f in $FILES
 do
 	name=${f##*/}
-	echo $name
+	echo "[*] Nmapping: ${name}"
 	nmap -iL $f -oG "./../Domains/Nmap/${name}_nmap.txt"
+	echo "[*] Nmap done, moving file ${name} to ../Domains/Split/" 
+	mv $f "../Domains/Split/${name}"
 done
