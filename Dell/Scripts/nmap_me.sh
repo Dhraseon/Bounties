@@ -1,6 +1,7 @@
 #!/bin/bash
 # split the domain files into groups of 50
 FILES="../Domains/Sublist3r/*"
+mkdir "../Domains/Split"
 for f in $FILES
 do
 	name=${f##*/}

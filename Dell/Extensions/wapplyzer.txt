@@ -1,0 +1,5 @@
+Widget: OWL Carousel
+Web framework: Bootstrap 3.3.1
+JS Libraries: JQuery 1.10.2
+	      JQuery 1.9.2
+
