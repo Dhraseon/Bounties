@@ -19,6 +19,6 @@ do
 	name=${f##*/}
 	echo "[*] Nmapping: ${name}"
 	nmap -iL $f -oG "./../Domains/Nmap/${name}_nmap.txt"
-	echo "[*] Nmap done, moving file ${name} to ../Domains/Split/" 
+	echo "[*] Nmap done, moving file ${name} to ../Domains/Done/" 
 	mv $f "../Domains/Done/${name}"
 done
