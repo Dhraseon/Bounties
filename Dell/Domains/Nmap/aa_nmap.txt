@@ -1,0 +1,44 @@
+# Nmap 7.60 scan initiated Sun Mar 24 18:55:40 2019 as: nmap -iL ../Domains/Split/aa -oG ./../Domains/Nmap/aa_nmap.txt
+Host: 184.24.28.220 (a184-24-28-220.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 184.24.28.220 (a184-24-28-220.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 103.26.1.75 ()	Status: Up
+Host: 103.26.1.75 ()	Ports: 443/open/tcp//https///, 700/open/tcp//epp///, 705/closed/tcp//agentx///, 843/open/tcp//unknown///, 5051/open/tcp//ida-agent///, 8022/open/tcp//oa-system///	Ignored State: filtered (994)
+Host: 125.252.73.13 (ip-125-252-73-13.asianetcom.net)	Status: Up
+Host: 125.252.73.13 (ip-125-252-73-13.asianetcom.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8443/closed/tcp//https-alt///	Ignored State: filtered (997)
+Host: 132.237.153.10 (access-compellent.dell.com)	Status: Up
+Host: 132.237.153.10 (access-compellent.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 132.237.173.2 (access-credantech.dell.com)	Status: Up
+Host: 132.237.173.2 (access-credantech.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 163.244.62.17 (access-emeacorpvip.dell.com)	Status: Up
+Host: 163.244.62.17 (access-emeacorpvip.dell.com)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 132.237.136.17 (access-f10chennai.dell.com)	Status: Up
+Host: 132.237.136.17 (access-f10chennai.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 132.237.160.129 (access-f10equinix.dell.com)	Status: Up
+Host: 132.237.160.129 (access-f10equinix.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 132.237.138.10 (access-fed.dell.com)	Status: Up
+Host: 132.237.138.10 (access-fed.dell.com)	Ports: 445/filtered/tcp//microsoft-ds///	Ignored State: closed (999)
+Host: 163.244.186.10 ()	Status: Up
+Host: 163.244.186.10 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//https///, 1723/closed/tcp//pptp///	Ignored State: filtered (997)
+Host: 148.9.240.152 ()	Status: Up
+Host: 148.9.240.152 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.150.77 ()	Status: Up
+Host: 143.166.150.77 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 132.237.162.69 (access-wysesjc.dell.com)	Status: Up
+Host: 132.237.162.69 (access-wysesjc.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 184.24.23.182 (a184-24-23-182.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 184.24.23.182 (a184-24-23-182.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.224.34 (ps-accessories.dell.com)	Status: Up
+Host: 143.166.224.34 (ps-accessories.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 125.252.73.109 (ip-125-252-73-109.asianetcom.net)	Status: Up
+Host: 125.252.73.109 (ip-125-252-73-109.asianetcom.net)	Ports: 443/open/tcp//https///, 990/open/tcp//ftps///, 7002/open/tcp//afs3-prserver///, 8443/open/tcp//https-alt///
+Host: 163.244.185.53 ()	Status: Up
+Host: 163.244.185.53 ()	Ports: 443/open/tcp//https///
+Host: 143.166.11.235 (exchange-hma-pc1.us.dell.com)	Status: Up
+Host: 143.166.11.235 (exchange-hma-pc1.us.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.33.231.48 (server-13-33-231-48.lax3.r.cloudfront.net)	Status: Up
+Host: 13.33.231.48 (server-13-33-231-48.lax3.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 163.244.62.17 (access-emeacorpvip.dell.com)	Status: Up
+Host: 163.244.62.17 (access-emeacorpvip.dell.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 184.24.28.220 (a184-24-28-220.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 184.24.28.220 (a184-24-28-220.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+# Nmap done at Sun Mar 24 19:43:35 2019 -- 31 IP addresses (21 hosts up) scanned in 2874.78 seconds
