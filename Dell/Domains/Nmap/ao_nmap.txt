@@ -1,0 +1,2 @@
+# Nmap 7.60 scan initiated Sun Mar 24 19:55:34 2019 as: nmap -iL ../Domains/Split/ao -oG ./../Domains/Nmap/ao_nmap.txt
+# Nmap done at Sun Mar 24 19:56:21 2019 -- 0 IP addresses (0 hosts up) scanned in 47.60 seconds

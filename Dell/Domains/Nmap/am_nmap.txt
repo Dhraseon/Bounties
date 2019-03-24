@@ -1,0 +1,2 @@
+# Nmap 7.60 scan initiated Sun Mar 24 19:54:40 2019 as: nmap -iL ../Domains/Split/am -oG ./../Domains/Nmap/am_nmap.txt
+# Nmap done at Sun Mar 24 19:55:12 2019 -- 0 IP addresses (0 hosts up) scanned in 31.68 seconds
