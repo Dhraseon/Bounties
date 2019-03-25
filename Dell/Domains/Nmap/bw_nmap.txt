@@ -37,3 +37,6 @@ Host: 143.166.11.13 (apidppc1bigip.us.dell.com)	Status: Up
 Host: 143.166.11.13 (apidppc1bigip.us.dell.com)	Ports: 443/open/tcp//https///, 444/open/tcp//snpp///	Ignored State: filtered (998)
 Host: 70.186.27.18 ()	Status: Up
 Host: 70.186.27.18 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.11.150 (apidp-nonprd-pc1.us.dell.com)	Status: Up
+Host: 143.166.11.150 (apidp-nonprd-pc1.us.dell.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+# Nmap done at Mon Mar 25 18:23:10 2019 -- 36 IP addresses (20 hosts up) scanned in 1381.61 seconds

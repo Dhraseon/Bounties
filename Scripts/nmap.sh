@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # split the domain files into groups of 50
 # iff the split dir doesn't exist already
 FILES="../Domains/Sublist3r/*"

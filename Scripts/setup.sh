@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # get dir root from user, this should be the name of the company
 echo "[*] Enter name: "
-name="test"
+name="../test"
 #set up sub-dirs and array
 domains="${name}/Domains"
 done="${domains}/Done"
@@ -13,9 +13,9 @@ retire="${extension}/Retire"
 note="${name}/Notes"
 scriptDir="${name}/Scripts"
 declare -a dirs=(
-$domains, $done, $split,
-$nmap, $sublister, $extension,
-$retire, $note, $scriptDir
+$name $domains $done $split
+$nmap $sublister $extension
+$retire $note $scriptDir
 	        )
 
 # iteratre through array
