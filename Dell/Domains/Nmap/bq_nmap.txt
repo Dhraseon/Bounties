@@ -1,0 +1,2 @@
+# Nmap 7.60 scan initiated Mon Mar 25 17:11:19 2019 as: nmap -iL ../Domains/Split/bq -oG ./../Domains/Nmap/bq_nmap.txt
+# Nmap done at Mon Mar 25 17:12:03 2019 -- 0 IP addresses (0 hosts up) scanned in 43.98 seconds

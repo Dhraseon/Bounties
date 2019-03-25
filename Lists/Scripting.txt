@@ -1,0 +1,8 @@
+A todo list for writting scripts
+
+1. shebang, using the exact chracter sequence that follow
+	#!/usr/bin/env bash
+2. give the script execution permissions
+	chmod +x myscript.sh
+
+

@@ -1,0 +1,4 @@
+# Nmap 7.60 scan initiated Mon Mar 25 17:12:25 2019 as: nmap -iL ../Domains/Split/bt -oG ./../Domains/Nmap/bt_nmap.txt
+Host: 143.166.83.38 (pcpresto.de)	Status: Up
+Host: 143.166.83.38 (pcpresto.de)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+# Nmap done at Mon Mar 25 17:14:51 2019 -- 7 IP addresses (1 host up) scanned in 146.29 seconds
