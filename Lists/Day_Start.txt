@@ -1,0 +1,10 @@
+1. Verify Bounty hasn't changed 
+	- record any changes
+2. Review notes from last session
+3. Conitnue any passive components as needed
+	- nmap
+	- split
+	- etc
+4. Set-up environment
+	- chrome
+	- extensions
