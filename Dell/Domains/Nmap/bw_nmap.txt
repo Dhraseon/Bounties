@@ -1,0 +1,39 @@
+# Nmap 7.60 scan initiated Mon Mar 25 18:00:08 2019 as: nmap -iL ../Domains/Split/bw -oG ./../Domains/Nmap/bw_nmap.txt
+Host: 143.166.11.13 (apidppc1bigip.us.dell.com)	Status: Up
+Host: 143.166.11.13 (apidppc1bigip.us.dell.com)	Ports: 443/open/tcp//https///, 444/open/tcp//snpp///	Ignored State: filtered (998)
+Host: 143.166.170.223 (apidpps3bigip.us.dell.com)	Status: Up
+Host: 143.166.170.223 (apidpps3bigip.us.dell.com)	Ports: 443/open/tcp//https///, 444/open/tcp//snpp///	Ignored State: filtered (998)
+Host: 143.166.11.150 (apidp-nonprd-pc1.us.dell.com)	Status: Up
+Host: 143.166.11.150 (apidp-nonprd-pc1.us.dell.com)	Ports: 443/open/tcp//https///, 444/open/tcp//snpp///	Ignored State: filtered (998)
+Host: 143.166.224.87 (ps-accessoriesapj.us.dell.com)	Status: Up
+Host: 143.166.224.87 (ps-accessoriesapj.us.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 70.186.27.18 ()	Status: Up
+Host: 70.186.27.18 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.170.193 (ps-advisorsapj.us.dell.com)	Status: Up
+Host: 143.166.170.193 (ps-advisorsapj.us.dell.com)	Ports: 80/closed/tcp//http///, 443/closed/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.83.38 (*.delldj.pt)	Status: Up
+Host: 143.166.83.38 (*.delldj.pt)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 203.127.56.195 ()	Status: Up
+Host: 203.127.56.195 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 465/closed/tcp//smtps///, 993/closed/tcp//imaps///, 995/closed/tcp//pop3s///	Ignored State: filtered (995)
+Host: 23.205.242.120 (a23-205-242-120.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.205.242.120 (a23-205-242-120.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 58.26.129.81 ()	Status: Up
+Host: 58.26.129.81 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//https///, 1078/closed/tcp//avocent-proxy///, 8080/closed/tcp//http-proxy///	Ignored State: filtered (996)
+Host: 58.26.129.80 ()	Status: Up
+Host: 58.26.129.80 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//https///, 1078/open/tcp//avocent-proxy///, 8080/closed/tcp//http-proxy///	Ignored State: filtered (996)
+Host: 202.101.151.173 ()	Status: Up
+Host: 202.101.151.173 ()	Ports: 443/open/tcp//https///, 1078/open/tcp//avocent-proxy///, 3389/open/tcp//ms-wbt-server///	Ignored State: filtered (997)
+Host: 143.166.83.153 (pc-partnerdirect.us.dell.com)	Status: Up
+Host: 143.166.83.153 (pc-partnerdirect.us.dell.com)	Ports: 80/closed/tcp//http///, 443/closed/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.83.203 (apolstore.dell.com)	Status: Up
+Host: 143.166.83.203 (apolstore.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 66.85.141.150 ()	Status: Up
+Host: 66.85.141.150 ()	Ports: 20/closed/tcp//ftp-data///, 21/open/tcp//ftp///, 22/open/tcp//ssh///, 53/closed/tcp//domain///, 80/open/tcp//http///, 143/closed/tcp//imap///, 443/open/tcp//https///, 873/closed/tcp//rsync///, 993/closed/tcp//imaps///, 995/closed/tcp//pop3s///, 2222/open/tcp//EtherNetIP-1///, 8443/closed/tcp//https-alt///, 35500/closed/tcp//unknown///	Ignored State: filtered (987)
+Host: 143.166.83.204 (appremier.dell.com)	Status: Up
+Host: 143.166.83.204 (appremier.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.11.150 (apidp-nonprd-pc1.us.dell.com)	Status: Up
+Host: 143.166.11.150 (apidp-nonprd-pc1.us.dell.com)	Ports: 443/open/tcp//https///, 444/open/tcp//snpp///	Ignored State: filtered (998)
+Host: 143.166.11.13 (apidppc1bigip.us.dell.com)	Status: Up
+Host: 143.166.11.13 (apidppc1bigip.us.dell.com)	Ports: 443/open/tcp//https///, 444/open/tcp//snpp///	Ignored State: filtered (998)
+Host: 70.186.27.18 ()	Status: Up
+Host: 70.186.27.18 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
