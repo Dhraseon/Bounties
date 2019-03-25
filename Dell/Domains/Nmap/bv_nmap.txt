@@ -1,0 +1,4 @@
+# Nmap 7.60 scan initiated Mon Mar 25 17:59:54 2019 as: nmap -iL ../Domains/Split/bv -oG ./../Domains/Nmap/bv_nmap.txt
+Host: 104.75.130.105 (a104-75-130-105.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.75.130.105 (a104-75-130-105.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+# Nmap done at Mon Mar 25 18:00:08 2019 -- 2 IP addresses (1 host up) scanned in 14.02 seconds

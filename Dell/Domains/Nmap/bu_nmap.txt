@@ -1,0 +1,46 @@
+# Nmap 7.60 scan initiated Mon Mar 25 17:14:51 2019 as: nmap -iL ../Domains/Split/bu -oG ./../Domains/Nmap/bu_nmap.txt
+Host: 143.166.83.38 (dell.com.kn)	Status: Up
+Host: 143.166.83.38 (dell.com.kn)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.75.130.105 (a104-75-130-105.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.75.130.105 (a104-75-130-105.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.135.146 ()	Status: Up
+Host: 143.166.135.146 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.135.141 ()	Status: Up
+Host: 143.166.135.141 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.147.25 (channelsproapj-S3B.ap.dell.com)	Status: Up
+Host: 143.166.147.25 (channelsproapj-S3B.ap.dell.com)	Ports: 443/closed/tcp//https///	Ignored State: filtered (999)
+Host: 143.166.147.28 (channelssmapj-S3B.ap.dell.com)	Status: Up
+Host: 143.166.147.28 (channelssmapj-S3B.ap.dell.com)	Ports: 80/closed/tcp//http///, 443/closed/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.135.147 ()	Status: Up
+Host: 143.166.135.147 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.224.244 (delloncall.net)	Status: Up
+Host: 143.166.224.244 (delloncall.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.147.123 (dellchannels1apj-s3b.ap.dell.com)	Status: Up
+Host: 143.166.147.123 (dellchannels1apj-s3b.ap.dell.com)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.147.124 (dellchannels2apj-s3b.ap.dell.com)	Status: Up
+Host: 143.166.147.124 (dellchannels2apj-s3b.ap.dell.com)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.147.125 (dellchannels3apj-s3b.ap.dell.com)	Status: Up
+Host: 143.166.147.125 (dellchannels3apj-s3b.ap.dell.com)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.147.126 (dellchannels4apj-s3b.ap.dell.com)	Status: Up
+Host: 143.166.147.126 (dellchannels4apj-s3b.ap.dell.com)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.147.127 (dellchannels5apj-s3b.ap.dell.com)	Status: Up
+Host: 143.166.147.127 (dellchannels5apj-s3b.ap.dell.com)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.147.121 (dellchannelslbapj-s3b.ap.dell.com)	Status: Up
+Host: 143.166.147.121 (dellchannelslbapj-s3b.ap.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.147.120 (dellchannelsproapj-s3b.ap.dell.com)	Status: Up
+Host: 143.166.147.120 (dellchannelsproapj-s3b.ap.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.147.122 (dellchannelssvapj-s3b.ap.dell.com)	Status: Up
+Host: 143.166.147.122 (dellchannelssvapj-s3b.ap.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 132.237.151.21 (penpwftaprox01.ap.dell.com)	Status: Up
+Host: 132.237.151.21 (penpwftaprox01.ap.dell.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 132.237.151.28 (penswftaprox01.ap.dell.com)	Status: Up
+Host: 132.237.151.28 (penswftaprox01.ap.dell.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 143.166.135.147 ()	Status: Up
+Host: 143.166.135.147 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.135.141 ()	Status: Up
+Host: 143.166.135.141 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.83.38 (dell.com.kn)	Status: Up
+Host: 143.166.83.38 (dell.com.kn)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.83.38 (dell.com.kn)	Status: Up
+Host: 143.166.83.38 (dell.com.kn)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+# Nmap done at Mon Mar 25 17:59:54 2019 -- 50 IP addresses (22 hosts up) scanned in 2703.29 seconds
