@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # get dir root from user, this should be the name of the company
-echo "[*] Enter name: "
-name="../test"
+read -p "[*] Enter name: " name
+name="../${name}" # add prefix
 #set up sub-dirs and array
 domains="${name}/Domains"
 done="${domains}/Done"
