@@ -1,0 +1,11 @@
+1. checked xssed.com for the following
+	No Results:
+	- *.delltechnologies.com.*
+	- *.dellemc.com.*
+	- *.rsa.com.*
+	- *.boomi.com.*
+	- www.rsaconference.com
+
+	Results
+	- *.dell.com.*
+	- *.emc.com.*
