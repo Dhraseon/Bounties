@@ -1,0 +1,42 @@
+# Nmap 7.60 scan initiated Sat Mar 30 19:00:50 2019 as: nmap -iL ../Domains/Split/bx -oG ./../Domains/Nmap/bx_nmap.txt
+Host: 143.166.11.237 (apwebvip-pc1.dell.com)	Status: Up
+Host: 143.166.11.237 (apwebvip-pc1.dell.com)	Ports: 53/open/tcp//domain///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.23.231 (AUSPASNL6PC104.dell.com)	Status: Up
+Host: 143.166.23.231 (AUSPASNL6PC104.dell.com)	Ports: 22/closed/tcp//ssh///, 25/closed/tcp//smtp///, 53/open/tcp//domain///, 80/closed/tcp//http///, 389/closed/tcp//ldap///, 443/closed/tcp//https///, 500/closed/tcp//isakmp///, 636/closed/tcp//ldapssl///	Ignored State: filtered (992)
+Host: 143.166.23.166 (AUSPASNL6PS304.dell.com)	Status: Up
+Host: 143.166.23.166 (AUSPASNL6PS304.dell.com)	Ports: 22/closed/tcp//ssh///, 25/closed/tcp//smtp///, 53/open/tcp//domain///, 80/closed/tcp//http///, 389/closed/tcp//ldap///, 443/closed/tcp//https///, 500/closed/tcp//isakmp///, 636/closed/tcp//ldapssl///	Ignored State: filtered (992)
+Host: 143.166.23.241 (AUSPWCAWSPC101.dell.com)	Status: Up
+Host: 143.166.23.241 (AUSPWCAWSPC101.dell.com)	Ports: 22/closed/tcp//ssh///, 25/closed/tcp//smtp///, 53/open/tcp//domain///, 80/open/tcp//http///, 389/closed/tcp//ldap///, 443/open/tcp//https///, 500/closed/tcp//isakmp///, 636/closed/tcp//ldapssl///	Ignored State: filtered (992)
+Host: 143.166.23.176 (AUSPWCAWSPS301.dell.com)	Status: Up
+Host: 143.166.23.176 (AUSPWCAWSPS301.dell.com)	Ports: 22/closed/tcp//ssh///, 25/closed/tcp//smtp///, 53/open/tcp//domain///, 80/open/tcp//http///, 389/closed/tcp//ldap///, 443/open/tcp//https///, 500/closed/tcp//isakmp///, 636/closed/tcp//ldapssl///	Ignored State: filtered (992)
+Host: 143.166.255.86 (ausswvpndev01-dmz.dell.com)	Status: Up
+Host: 143.166.255.86 (ausswvpndev01-dmz.dell.com)	Ports: 53/open/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 143.166.255.88 (ausswvpndev02-dmz.dell.com)	Status: Up
+Host: 143.166.255.88 (ausswvpndev02-dmz.dell.com)	Ports: 53/open/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 143.166.255.97 (ausswvpndev03-dmz.dell.com)	Status: Up
+Host: 143.166.255.97 (ausswvpndev03-dmz.dell.com)	Ports: 53/open/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 143.166.147.70 (awmag.dell.com)	Status: Up
+Host: 143.166.147.70 (awmag.dell.com)	Ports: 53/open/tcp//domain///, 443/open/tcp//https///, 2010/closed/tcp//search///, 2020/open/tcp//xinupageserver///	Ignored State: filtered (996)
+Host: 143.166.135.106 ()	Status: Up
+Host: 143.166.135.106 ()	Ports: 53/open/tcp//domain///, 443/closed/tcp//https///, 2010/closed/tcp//search///, 2020/closed/tcp//xinupageserver///	Ignored State: filtered (996)
+Host: 143.166.147.105 (awmagruat-ps3.dell.com)	Status: Up
+Host: 143.166.147.105 (awmagruat-ps3.dell.com)	Ports: 53/open/tcp//domain///, 443/open/tcp//https///, 2001/closed/tcp//dc///, 2010/open/tcp//search///, 2020/closed/tcp//xinupageserver///	Ignored State: filtered (995)
+Host: 143.166.147.187 (awmail-dev-ps3.dell.com)	Status: Up
+Host: 143.166.147.187 (awmail-dev-ps3.dell.com)	Ports: 53/open/tcp//domain///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.147.64 (ps3-awmdm.us.dell.com)	Status: Up
+Host: 143.166.147.64 (ps3-awmdm.us.dell.com)	Ports: 53/open/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///, 2001/open/tcp//dc///, 2010/closed/tcp//search///, 2020/closed/tcp//xinupageserver///, 2100/closed/tcp//amiganetfs///	Ignored State: filtered (993)
+Host: 143.166.147.104 (awmdmuat.dell.com)	Status: Up
+Host: 143.166.147.104 (awmdmuat.dell.com)	Ports: 53/open/tcp//domain///, 443/open/tcp//https///, 2001/open/tcp//dc///, 2010/closed/tcp//search///, 2020/closed/tcp//xinupageserver///	Ignored State: filtered (995)
+Host: 150.105.78.212 ()	Status: Up
+Host: 150.105.78.212 ()	Ports: 53/open/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///, 7443/open/tcp//oracleas-https///	Ignored State: filtered (996)
+Host: 150.105.78.30 ()	Status: Up
+Host: 150.105.78.30 ()	Ports: 53/open/tcp//domain///, 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (996)
+Host: 150.105.79.44 ()	Status: Up
+Host: 150.105.79.44 ()	Ports: 53/open/tcp//domain///, 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (996)
+Host: 150.105.78.120 ()	Status: Up
+Host: 150.105.78.120 ()	Ports: 53/open/tcp//domain///, 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///, 7443/open/tcp//oracleas-https///	Ignored State: filtered (995)
+Host: 150.105.79.222 ()	Status: Up
+Host: 150.105.79.222 ()	Ports: 53/open/tcp//domain///, 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (996)
+Host: 143.166.11.237 (apwebvip-pc1.dell.com)	Status: Up
+Host: 143.166.11.237 (apwebvip-pc1.dell.com)	Ports: 53/open/tcp//domain///, 443/open/tcp//https///	Ignored State: filtered (998)
+# Nmap done at Sat Mar 30 20:22:02 2019 -- 48 IP addresses (20 hosts up) scanned in 4872.21 seconds
