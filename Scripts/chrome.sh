@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # download keys and repo
-line="deb http://dil.google.com/linux/chrome/deb/ stable main"
+line="deb http://dl.google.com/linux/chrome/deb/ stable main"
 echo $line >> /etc/apt/sources.list
 key="https://dl-ssl.google.com/linux/linux_signing_key.pub"
 wget $key

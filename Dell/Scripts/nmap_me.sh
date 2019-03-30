@@ -2,7 +2,7 @@
 # split the domain files into groups of 50
 # iff the split dir doesn't exist already
 FILES="../Domains/Sublist3r/*"
-if [! -d "../Domains/Split"]; then
+if [ ! -d "../Domains/Split" ]; then
 	mkdir "../Domains/Split"
 	for f in $FILES
 	do
@@ -12,7 +12,9 @@ if [! -d "../Domains/Split"]; then
 	done
 fi
 # Nmap each file created by the split
-mkdir "../Domains/Done/"
+if [ ! -d "../Domains/Done" ]; then
+	mkdir "../Domains/Done/"
+fi
 FILES="../Domains/Split/*"
 for f in $FILES
 do
