@@ -8,3 +8,5 @@
 4. Set-up environment
 	- chrome
 	- extensions
+5. Change search enginge to
+	startpage

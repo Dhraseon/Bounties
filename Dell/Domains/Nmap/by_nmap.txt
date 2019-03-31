@@ -1,0 +1,76 @@
+# Nmap 7.60 scan initiated Sun Mar 31 18:03:43 2019 as: nmap -iL ../Domains/Split/by -oG ./../Domains/Nmap/by_nmap.txt
+Host: 104.20.83.12 ()	Status: Up
+Host: 104.20.83.12 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 147.75.0.114 (blog.dell.com)	Status: Up
+Host: 147.75.0.114 (blog.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.75.131.175 (a104-75-131-175.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.75.131.175 (a104-75-131-175.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.83.100 (pc1-brstore.us.dell.com)	Status: Up
+Host: 143.166.83.100 (pc1-brstore.us.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 208.70.143.95 ()	Status: Up
+Host: 208.70.143.95 ()	Ports: 80/closed/tcp//http///, 443/closed/tcp//https///	Ignored State: filtered (998)
+Host: 172.82.196.128 (r128.em.home.dell.com)	Status: Up
+Host: 172.82.196.128 (r128.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.129 (r129.em.home.dell.com)	Status: Up
+Host: 172.82.196.129 (r129.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.130 (r130.em.home.dell.com)	Status: Up
+Host: 172.82.196.130 (r130.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.131 (r131.em.home.dell.com)	Status: Up
+Host: 172.82.196.131 (r131.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.134 (r134.em.business.dell.com)	Status: Up
+Host: 172.82.196.134 (r134.em.business.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.135 (r135.em.business.dell.com)	Status: Up
+Host: 172.82.196.135 (r135.em.business.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.137 (r137.em.business.dell.com)	Status: Up
+Host: 172.82.196.137 (r137.em.business.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.138 (r138.em.business.dell.com)	Status: Up
+Host: 172.82.196.138 (r138.em.business.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.139 (r139.em.business.dell.com)	Status: Up
+Host: 172.82.196.139 (r139.em.business.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.140 (r140.em.business.dell.com)	Status: Up
+Host: 172.82.196.140 (r140.em.business.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.141 (r141.em.home.dell.com)	Status: Up
+Host: 172.82.196.141 (r141.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.142 (r142.em.home.dell.com)	Status: Up
+Host: 172.82.196.142 (r142.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.143 (r143.em.home.dell.com)	Status: Up
+Host: 172.82.196.143 (r143.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.144 (r144.em.home.dell.com)	Status: Up
+Host: 172.82.196.144 (r144.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.145 (r145.em.home.dell.com)	Status: Up
+Host: 172.82.196.145 (r145.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.146 (r146.em.home.dell.com)	Status: Up
+Host: 172.82.196.146 (r146.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.147 (r147.em.home.dell.com)	Status: Up
+Host: 172.82.196.147 (r147.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.148 (r148.em.home.dell.com)	Status: Up
+Host: 172.82.196.148 (r148.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.149 (r149.em.home.dell.com)	Status: Up
+Host: 172.82.196.149 (r149.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.150 (r150.em.home.dell.com)	Status: Up
+Host: 172.82.196.150 (r150.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.151 (r151.em.home.dell.com)	Status: Up
+Host: 172.82.196.151 (r151.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.152 (r152.em.home.dell.com)	Status: Up
+Host: 172.82.196.152 (r152.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.153 (r153.em.home.dell.com)	Status: Up
+Host: 172.82.196.153 (r153.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.154 (r154.em.home.dell.com)	Status: Up
+Host: 172.82.196.154 (r154.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.155 (r155.em.home.dell.com)	Status: Up
+Host: 172.82.196.155 (r155.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.156 (r156.em.home.dell.com)	Status: Up
+Host: 172.82.196.156 (r156.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.157 (r157.em.home.dell.com)	Status: Up
+Host: 172.82.196.157 (r157.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.158 (r158.em.home.dell.com)	Status: Up
+Host: 172.82.196.158 (r158.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 172.82.196.159 (r159.em.home.dell.com)	Status: Up
+Host: 172.82.196.159 (r159.em.home.dell.com)	Ports: 25/filtered/tcp//smtp///, 4343/filtered/tcp//unicall///	Ignored State: closed (998)
+Host: 208.70.143.116 ()	Status: Up
+Host: 208.70.143.116 ()	Ports: 80/closed/tcp//http///, 443/closed/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.224.244 (dygad.org)	Status: Up
+Host: 143.166.224.244 (dygad.org)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 70.186.27.56 ()	Status: Up
+Host: 70.186.27.56 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+# Nmap done at Sun Mar 31 18:05:58 2019 -- 46 IP addresses (37 hosts up) scanned in 134.77 seconds

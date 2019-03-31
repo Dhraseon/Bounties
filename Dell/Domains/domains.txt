@@ -1,0 +1,8 @@
+List of Domains for Dell bugbounty
+
+1. *.dell.com/*
+2. *.delltechnologies.com/*
+3. *.emc.com/*
+4. *.rsa.com/*
+5. *.boomi.com/*
+6. 

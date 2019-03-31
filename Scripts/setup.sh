@@ -1,19 +1,19 @@
 #!/usr/bin/env bash
 # get dir root from user, this should be the name of the company
 read -p "[*] Enter name: " name
-name="../${name}" # add prefix
+dirName="../${name}" # add prefix
 #set up sub-dirs and array
-domains="${name}/Domains"
+domains="${dirName}/Domains"
 done="${domains}/Done"
 split="${domains}/Split"
 nmap="${domains}/Nmap"
 sublister="${domains}/Sublist3r"
-extension="${name}/Extensions"
+extension="${dirName}/Extensions"
 retire="${extension}/Retire"
-note="${name}/Notes"
-scriptDir="${name}/Scripts"
+note="${dirName}/Notes"
+scriptDir="${dirName}/Scripts"
 declare -a dirs=(
-$name $domains $done $split
+$dirName $domains $done $split
 $nmap $sublister $extension
 $retire $note $scriptDir
 	        )
@@ -24,6 +24,14 @@ for dir in "${dirs[@]}"
 do
 	mkdir $dir
 done
+
+#add valid domain list for bounty
+echo "[*] Writing domain.txt"
+domainTxt="${domains}/domains.txt"
+touch $domainTxt
+echo "List of Domains for ${name}" >> $domainTxt
+echo " " >> $domainTxt
+echo "1. " >> $domainTxt
 
 # copy scripts over
 echo "[*] Making scripts"
