@@ -1,20 +1,22 @@
-# Nmap 7.60 scan initiated Sun Mar 31 18:05:58 2019 as: nmap -iL ../Domains/Split/bz -oG ./../Domains/Nmap/bz_nmap.txt
-Host: 70.186.25.16 ()	Status: Up
-Host: 70.186.25.16 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+# Nmap 7.60 scan initiated Tue Apr  2 17:50:56 2019 as: nmap -iL ../Domains/Split/bz -oG ./../Domains/Nmap/bz_nmap.txt
+Host: 23.215.101.75 (a23-215-101-75.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.215.101.75 (a23-215-101-75.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
 Host: 35.164.213.239 (ec2-35-164-213-239.us-west-2.compute.amazonaws.com)	Status: Up
 Host: 35.164.213.239 (ec2-35-164-213-239.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///	Ignored State: filtered (999)
 Host: 23.65.187.7 (a23-65-187-7.deploy.static.akamaitechnologies.com)	Status: Up
 Host: 23.65.187.7 (a23-65-187-7.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
 Host: 143.166.83.104 (changepoint-dpmf-external.dell.com)	Status: Up
 Host: 143.166.83.104 (changepoint-dpmf-external.dell.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
-Host: 104.75.131.175 (a104-75-131-175.deploy.static.akamaitechnologies.com)	Status: Up
-Host: 104.75.131.175 (a104-75-131-175.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.212.186.31 (a23-212-186-31.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.212.186.31 (a23-212-186-31.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
 Host: 143.166.147.82 (chatadsprd-ps3.us.dell.com)	Status: Up
 Host: 143.166.147.82 (chatadsprd-ps3.us.dell.com)	Ports: 443/closed/tcp//https///	Ignored State: filtered (999)
+Host: 23.193.160.13 (a23-193-160-13.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.193.160.13 (a23-193-160-13.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
 Host: 208.70.143.20 ()	Status: Up
 Host: 208.70.143.20 ()	Ports: 80/closed/tcp//http///, 443/closed/tcp//https///	Ignored State: filtered (998)
-Host: 143.166.11.146 (moss2010-clientshare-pc1.aus.amer.dell.com)	Status: Up
-Host: 143.166.11.146 (moss2010-clientshare-pc1.aus.amer.dell.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 143.166.170.209 (moss2010-clientshare-s3b.aus.amer.dell.com)	Status: Up
+Host: 143.166.170.209 (moss2010-clientshare-s3b.aus.amer.dell.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
 Host: 143.166.11.212 (soagw-dmz-pc1.us.dell.com)	Status: Up
 Host: 143.166.11.212 (soagw-dmz-pc1.us.dell.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 7443/open/tcp//oracleas-https///	Ignored State: filtered (997)
 Host: 162.217.193.36 (sandiego.ar01.host35.scalematrix.net)	Status: Up
@@ -27,17 +29,33 @@ Host: 23.101.27.182 (waws-prod-sg1-005.cloudapp.net)	Status: Up
 Host: 23.101.27.182 (waws-prod-sg1-005.cloudapp.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
 Host: 157.97.108.63 (ip157-97-108-63.pbiaas.com)	Status: Up
 Host: 157.97.108.63 (ip157-97-108-63.pbiaas.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///	Ignored State: filtered (997)
-Host: 10.143.19.192 ()	Status: Up
-Host: 10.143.19.192 ()	Status: Up
-Host: 143.166.36.237 (U3VMCSFSIT62.aus.amer.dell.com)	Status: Up
-Host: 143.166.36.237 (U3VMCSFSIT62.aus.amer.dell.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
-Host: 143.166.83.38 (*.delldj.ca)	Status: Up
-Host: 143.166.83.38 (*.delldj.ca)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
-Host: 143.166.224.244 (xn--dll-6la.ch)	Status: Up
-Host: 143.166.224.244 (xn--dll-6la.ch)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
-Host: 70.186.27.56 ()	Status: Up
-Host: 70.186.27.56 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 143.166.36.237 (collab.dell.com)	Status: Up
+Host: 143.166.36.237 (collab.dell.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 143.166.83.38 ()	Status: Up
+Host: 143.166.83.38 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.215.101.98 (a23-215-101-98.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.215.101.98 (a23-215-101-98.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.224.244 ()	Status: Up
+Host: 143.166.224.244 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.215.100.130 (a23-215-100-130.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.215.100.130 (a23-215-100-130.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 198.105.254.228 ()	Status: Up
+Host: 198.105.254.228 ()	Ports: 80/open/tcp//http///, 443/closed/tcp//https///	Ignored State: filtered (998)
 Host: 204.92.31.230 ()	Status: Up
-Host: 204.92.31.230 ()	Ports: 25/filtered/tcp//smtp///, 80/open/tcp//http///, 443/open/tcp//https///, 4343/filtered/tcp//unicall///	Ignored State: closed (996)
-Host: 10.143.19.235 ()	Status: Up
-Host: 10.143.19.235 ()	Status: Up
+Host: 204.92.31.230 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 445/filtered/tcp//microsoft-ds///	Ignored State: closed (997)
+Host: 23.62.55.161 (a23-62-55-161.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.62.55.161 (a23-62-55-161.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.65.187.7 (a23-65-187-7.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.65.187.7 (a23-65-187-7.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.83.104 (changepoint-dpmf-external.dell.com)	Status: Up
+Host: 143.166.83.104 (changepoint-dpmf-external.dell.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 143.166.83.38 ()	Status: Up
+Host: 143.166.83.38 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.224.244 ()	Status: Up
+Host: 143.166.224.244 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.83.38 ()	Status: Up
+Host: 143.166.83.38 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.83.38 ()	Status: Up
+Host: 143.166.83.38 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.166.83.38 ()	Status: Up
+Host: 143.166.83.38 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
